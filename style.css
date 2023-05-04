@@ -86,17 +86,6 @@ h1 {
        text-align: center;
 }
 
-.card .contenido p {
-       line-height: 1.5;
-       color: #6a6a6a;
-
-}
-
-.card .contenido h3{
-       font-weight: 500;
-       margin-bottom: 15px;
-}
-
 .container1 {
        width: 100%;
        display: flex;
@@ -126,6 +115,10 @@ h1 {
 
 .card-body h5 {
       margin-bottom: 15px;
+}
+
+.contenedor-video{
+        padding: auto;
 }
 
 button {
